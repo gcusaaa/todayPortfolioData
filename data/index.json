@@ -1,163 +1,110 @@
 {
-    "jobTitle": [
-        {
-            "title": "a software developer",
-            "color": "rgb(57, 153, 0)"
-        },
-        {
-            "title": "a youTuber",
-            "color": "rgb(157, 100, 0)"
-        },
-        {
-            "title": "a founder and CEO at JT Devs",
-            "color": "rgb(153, 76, 150)"
-        },
-        {
-            "title": "an IT Lecturer",
-            "color": "rgb(0, 172, 230)"
-        }    
-    ],
-    "about": [
-        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
-        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
-    ],
     "education": [
         {
             "id": 1,
-            "year": 2020,
-            "description": "I got my certificates on Data science",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+            "year": 2018,
+            "description": "I matriculated",
+            "place": "Strand Secondary School",
+            "type": "National certificate",
+            "certificate": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSeEebGirKqLyWtVgU5REZ6zxJ35VzJxgPl7y-Y5SQzc76g6USqx-Gt-kave9dpVbNMA4sOZGBrk1JUCmNfZyr0GZGp=w1227-h912"
+
         },
         {
             "id": 2,
-            "year": 2020,
-            "description": "I got my certificates on Advanced to Python",
-            "place": "Data Camp",
+            "year": 2019,
+            "description": "I optained a Higher Certificate in Office Management",
+            "place": "Helderberg College of Higher Education",
             "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+            "certificate": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQTdRrp7e9561ckR1QpmalO7OhbvmAnucHXrQK70Cv7De3OBTjWVH3nspARg3aIUriERzJxYQq9k8hg3C_Y9af69Iq78g=w1227-h912"
         },
         {
             "id": 3,
-            "year": 2020,
-            "description": "I got my certificates on Intro to Python",
-            "place": "Data Camp",
+            "year": 2023,
+            "description": "Currently at Life Choices studying web development",
+            "place": "Life Choices",
             "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
-        },
-        {
-            "id": 4,
-            "year": 2015,
-            "description": "I got my certificate on Intro to Android Developer",
-            "place": "Study Jams",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/102891ip_JFl_NEwW942zbvbkG7SXHx0G/view"
-        },
-        {
-            "id": 5,
-            "year": 2014,
-            "description": "I got my diploma on Software Engineering",
-            "place": "Tshwane University of Technology",
-            "type": "Diploma",
-            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
-        },
-        {
-            "id": 6,
-            "year": 2005,
-            "description": "Completed my course on PC Engineering",
-            "place": "Havatech",
-            "type": "Certificate",
-            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
-        },
-        {
-            "id": 7,
-            "year": 2000,
-            "description": "Grade 12",
-            "place": "",
-            "type": "Certificate",
-            "certificate": ""
+            "certificate": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQf496DcQtCmtvPmXe5DlhOyI2GhoCn1yoGLK5Po3_pjYkneojhXvvXvhHloL_LZzuNYCGDlt3XQhm3_-sUhbbfQPj0kw=w1227-h912"
         }
     ],
     "skills": [
         {
-            "title": "Web Development",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+            "title": "Html",
+            "experience": "I use the html 5 to create structured documents."
         },
         {
-            "title": "Database",
-            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+            "title": "CSS",
+            "experience": "I make use of the css 3 to style and display my html elements"
         },
         {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+            "title": "Bootstrap",
+            "experience": "By making use of the bootstrap frameworks I simplify my work, helping with the responsiveness, and mobile websites"
         },
         {
-            "title": "Programming",
-            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+            "title": "Javascript",
+            "experience": "I use javascript for my page functionality"
         }
     ],
     "testimonials": [
         {
-            "name": "Rachel",
-            "surname": "Mukanya",
-            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+            "name": "Tashreeq",
+            "surname": "Lee",
+            "quotes": "Sipho Gcusa is always willing to lend a helping hand and his enthusiasm and dedication to his work is unmatched. He is organized, thorough, and always goes the extra mile to make sure a job is well done and always carries a smile with him wherever he goes.",
+            "profile": "https://i.postimg.cc/HsQJbWyP/IMG-1956.jpg"
         },
         {
-            "name": "Ruth",
-            "surname": "Mukanya",
-            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
-            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+            "name": "Ntokozo",
+            "surname": "Sithebe",
+            "quotes": "His dedication to his craft, combined with his affable nature, makes him a valuable asset to any team. I have no doubt that Sipho will continue to make significant contributions to the field of coding and design. It is a privilege to work alongside such a dedicated and talented individual.",
+            "profile": "https://i.postimg.cc/QdwRsD6h/IMG-20230305-WA0010.jpg"
         },
         {
-            "name": "Lazola",
-            "surname": "Makubalo",
-            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Simamnkele",
+            "surname": "Tancu",
+            "quotes": "I highly recommend Sipho Gcusa as a software developer. Her technical expertise, commitment to quality, and strong communication skills make her an asset to any team. I look forward to the opportunity to work with them again in the future.",
+            "profile": "https://i.postimg.cc/d3pb5KZW/IMG-20230210-WA0008.jpg"
         },
         {
-            "name": "Dr. Godwin P",
-            "surname": "Dzvapatsva",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Sivuyisiwe",
+            "surname": "Peter",
+            "quotes": "Asisipho is a very passionate person especially when it come to developing website ,he is good with both front and backend . He is a team player and your company would be lucky to have him as part of your team.",
+            "profile": "https://i.postimg.cc/qvyNXJ65/1000094544.jpg"
         }
     ],
     "projects":[
         {
-            "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
-        },
-        {
             "name": "Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "description": "I built this application using html, css and javascript.",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSR2mDyEKzymy6zFfTKwzE766058vy2oHbZXpp3aJvod7Ev50VhDus3ZRvFTusx0NWsybiosN0uJDUuWznH7lWVudh5=w1227-h912",
+            "gitHub": "https://github.com/gcusaaa/calculator",
+            "netlify": "https://stunning-sfogliatella-de1335.netlify.app/"
         },
         {
-            "name": "Message believers Circle",
+            "name": "Temperature Calculator",
+            "description": "I built this temperature calculator to convert ",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRgaXDbYbAch0eYRNeOXfsgYufspFacsW3B2_8UxmGjFJ8opOqfjph-ccRizKsHnv_WSVa_NPsxvMAG-MtbN53rinRKlQ=w1227-h912",
+            "gitHub": "https://github.com/gcusaaa/temperatureCalc",
+            "netlify": "https://silly-meerkat-c44c94.netlify.app/"
+        },
+        {
+            "name": "Bootstrap Portfolio",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSTfb3POyI2qVB_aPMWcCtriJP-5f0yqDRwwfW5az29CsBOgR5FUIJmGYymJ9m50A2VdzqvggrUJtMDDAhH9bD7UPFrtw=w1227-h912",
+            "gitHub": "https://github.com/gcusaaa/endProjectBootstrap",
+            "netlify": "https://stately-biscotti-5d4b24.netlify.app/"
         },
         {
-            "name": "JT Laptop",
+            "name": "BMI Calculator",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYR5Tp64fEClutEeP0J_V3iGuFIPUTxeklwEnxxr14dCcwOTm91rzktL0o9yBKM6GUQz0NivUgrNdsqQhTKNTR2ufIfp=w1227-h912",
+            "gitHub": "https://github.com/gcusaaa/BMICalculator",
+            "netlify": "https://jade-panda-071dc5.netlify.app/"
         },
         {
-            "name": "JS Portfolio",
+            "name": "Daily List",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYR_daH_EMyZbbcxIqSPuP765rzr3hNFNxZjypZR0wF7wlHbe3RkS-oib8MhjkYxNpufOG69B2nvpQF4KC43EUSZLs7-DQ=w1227-h912",
+            "gitHub": "https://github.com/gcusaaa/createApplication",
+            "netlify": "https://gleeful-caramel-b59806.netlify.app/"
         }
     ]
 }
