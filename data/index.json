@@ -28,18 +28,22 @@
     ],
     "skills": [
         {
+            "photo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQw3Kjw5wTtq4j6giZYwPfww-thAIbR3kREavaXmpkgiJyL6nugp3gvHujMpA13N1ZSso_hRUV4RoZ4aGU7952EwutowQ=w1227-h912",
             "title": "Html",
             "experience": "I use the html 5 to create structured documents."
         },
         {
+            "photo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQ28uXU2vExSimdG7dNmdqg10rGHzq3NnjS7QRwjEvDuZBT6tNXAvoXymtnNMfvtZxdjQEnmDrrOHdAAWlvgGmEFBhgDw=w1227-h912",
             "title": "CSS",
             "experience": "I make use of the css 3 to style and display my html elements"
         },
         {
+            "photo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQOhnMGT1CKY2IrDeUuz0-PViA0cvPWmYheQXgXTKkZehu8L-0uhBuIgZd9JTc6fUAVMjFVlt1epIBlM9n5rumJJSLO2A=w1227-h912",
             "title": "Bootstrap",
             "experience": "By making use of the bootstrap frameworks I simplify my work, helping with the responsiveness, and mobile websites"
         },
         {
+            "photo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRPnvVj0DRSsiEJbBXVIcNfDPXMVwjeewDtU2cu2hsT0D8XT9YVMvGb5v2SoZIb1rYFZDEZJuzk2EmIgtUyRK4kK8z99g=w1227-h912",
             "title": "Javascript",
             "experience": "I use javascript for my page functionality"
         }
