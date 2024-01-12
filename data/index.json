@@ -46,6 +46,11 @@
             "photo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRPnvVj0DRSsiEJbBXVIcNfDPXMVwjeewDtU2cu2hsT0D8XT9YVMvGb5v2SoZIb1rYFZDEZJuzk2EmIgtUyRK4kK8z99g=w1227-h912",
             "title": "Javascript",
             "experience": "I use javascript for my page functionality"
+        },
+        {
+            "photo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTT26LfvHGj53tByQhHUfxhGm-YZDRftnKarqhyhujkPberbaaxUOEyn-V-y-81QUnLH2WZGI-OVkyQb0DCjNkTIWeXmw=w1227-h912",
+            "title": "GitHub",
+            "experience": "I make use of gitHub to store and manage my code/projects"
         }
     ],
     "testimonials": [
