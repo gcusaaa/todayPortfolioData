@@ -121,6 +121,13 @@
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYR_daH_EMyZbbcxIqSPuP765rzr3hNFNxZjypZR0wF7wlHbe3RkS-oib8MhjkYxNpufOG69B2nvpQF4KC43EUSZLs7-DQ=w1227-h912",
             "gitHub": "https://github.com/gcusaaa/createApplication",
             "netlify": "https://gleeful-caramel-b59806.netlify.app/"
+        },
+        {
+            "name": "E-Commerce",
+            "description": "I built an e-commerce website using HTML 5, CSS, Bootstrap, and Javascript.",
+            "image": "https://i.ibb.co/W6gR3bK/Screenshot-2024-01-12-140414.png",
+            "gitHub": "https://gcusaaa.github.io/E-Commerce-Website/",
+            "netlify": "https://verdant-lebkuchen-6f127f.netlify.app/"
         }
     ]
 }
